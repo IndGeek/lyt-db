@@ -1,0 +1,12 @@
+name: Release LytDB
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  no-op:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Step TBD
+        run: echo "Release created, actions to be defined."
