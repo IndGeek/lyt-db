@@ -1,0 +1,3 @@
+[submodule "lyt-vector"]
+	path = lyt-vector
+	url = https://github.com/IndGeek/lyt-vector
